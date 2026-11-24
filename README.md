@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi, I'm Rita Magdy 👋
-**Full-Stack & Backend Developer | Flutter & E-Commerce Specialist | Coding Educator**
+**Full-StackDeveloper| Flutter & E-Commerce Specialist | Coding Educator**
 
 I build practical, reliable software across web, mobile, and e-commerce—ranging from relational backend APIs and transactional workflows to interactive mobile apps with proven Experience at weagles marketing.
 
