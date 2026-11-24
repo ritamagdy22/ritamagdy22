@@ -1,6 +1,35 @@
 # 💫 About Me:
-a mini ERP REST API with Node.js, Express and MySQL (customers, orders, payments, inventory and role-based access)<br>ed-tech tools that help kids learn coding, and full-stack or Flutter apps<br>database design (normalization and indexing) and backend architecture such as transactions and authentication<br><br>database design (normalization and indexing) and backend architecture such as transactions and authentication<br><br>teaching coding to kids and teens, Flutter, Shopify and WordPress front-end work, building REST APIs
+### Hi, I'm Rita Magdy 👋
+**Full-Stack & Backend Developer | Flutter & E-Commerce Specialist | Coding Educator**
 
+I build practical, reliable software across web, mobile, and e-commerce—ranging from relational backend APIs and transactional workflows to interactive mobile apps with proven Experience at weagles marketing.
+
+- 🛠️ **Backend & Databases:** Designing REST APIs with **Node.js**, **Express**, and **MySQL**, focusing on clean relational schemas, normalization, indexing, atomic transactions, authentication, and role-based access control (RBAC).
+- 📱 **Mobile & Full-Stack Apps:** Crafting responsive web interfaces and cross-platform **Flutter** applications with clean state/architecture patterns and user-focused workflows.
+- 🛍️ **E-Commerce & Front-End:** Customizing **Shopify** (Liquid) and **WordPress** storefronts and front-end experiences with strong attention to performance, usability, and maintainable UI.
+- 🎓 **Coding Education:** Teaching programming and logical problem-solving to kids and teens, turning abstract computer science concepts into hands-on projects With proven Experience at ISchool for 2 years 
+
+---
+
+### What I’m Focused On & Building
+- **Mini ERP REST API (Node.js, Express, MySQL):** End-to-end backend modeling customers, orders, payments, inventory, and role-based access—emphasizing data integrity, relational structure, and clear API boundaries.
+- **Database & Backend Architecture:** Strengthening query performance through thoughtful indexing and schema normalization, alongside safe multi-step state updates via database transactions and auth flows.
+- **Ed-Tech & Interactive Learning Tools:** Creating beginner-friendly tools and projects that help students learn coding fundamentals through active building.
+
+---
+
+### Tech Stack
+- **Languages:** JavaScript, TypeScript, Dart, Python, HTML5, CSS3, SQL
+- **Backend & Databases:** Node.js, Express.js, MySQL, REST APIs, JWT / Auth & RBAC
+- **Frontend & Mobile:** React, Tailwind CSS, Flutter, Shopify Liquid, WordPress
+- **Tools & Workflow:** Git, GitHub, Postman / API Testing, MySQL Workbench, VS Code
+
+---
+
+### How I Work
+I care about **clarity over cleverness**—writing readable code, structuring data before writing endpoints, handling edge cases early, and explaining technical decisions plainly whether I'm collaborating with a team or mentoring a student.
+
+📫 **Open to:** Full-stack, backend, frontend, and mobile engineering roles (remote, hybrid, or relocation).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rita-magdy-033054268/) 
