@@ -32,10 +32,10 @@ I build practical, reliable software across web, mobile, and e-commerce—rangin
 ### 1. Cleo — Shopify E-Commerce Storefront
 - **Live Store:** [cleo-us.store](https://cleo-us.store/)
 - **Platform:** Shopify
-- **Overview:** Engineered and configured a Shopify e-commerce storefront tailored for online shopping and brand presentation.
+- **Overview:** Engineered and configured a Shopify e-commerce storefront tailored for online shopping and brand presentation integrated with payment
 - **Key Contributions:**
-  - Set up and customized the storefront layout, navigation, and product merchandising for a smooth shopping experience.
-  - Configured store settings, responsive design behavior, and storefront components for production launch.
+  - Set up and customized the storefront layout, navigation, and product merchandising for a smooth shopping experience and AI chatbot assistant.
+  - Configured store settings, responsive design behavior, and storefront components for production launch and working on clients updates adding or removing and       sections working on campaigns  and discounts adding emails flow for new customers and birthdays gifts discounts and adding any marketing app integration       depends on marketing requirements 
 
 ---
 
