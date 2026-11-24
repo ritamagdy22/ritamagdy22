@@ -19,10 +19,11 @@ I build practical, reliable software across web, mobile, and e-commerce—rangin
 ---
 
 ### Tech Stack
-- **Languages:** JavaScript, TypeScript, Dart, Python, HTML5, CSS3, SQL
+- **Languages:** JavaScript, Dart, Python, HTML5, CSS3, SQL
 - **Backend & Databases:** Node.js, Express.js, MySQL, REST APIs, JWT / Auth & RBAC
 - **Frontend & Mobile:** React, Tailwind CSS, Flutter, Shopify Liquid, WordPress
 - **Tools & Workflow:** Git, GitHub, Postman / API Testing, MySQL Workbench, VS Code
+- **Hosting & Domains:** Hostgator,  GoDaddy, Google workspace for migration , vercel , netlify 
 
 ---
 
