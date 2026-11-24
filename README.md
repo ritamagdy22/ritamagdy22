@@ -27,8 +27,37 @@ I build practical, reliable software across web, mobile, and e-commerce—rangin
 
 ---
 
-### How I Work
-I care about **clarity over cleverness**—writing readable code, structuring data before writing endpoints, handling edge cases early, and explaining technical decisions plainly whether I'm collaborating with a team or mentoring a student.
+## E-Commerce & Web Engineering Projects
+
+### 1. Cleo — Shopify E-Commerce Storefront
+- **Live Store:** [cleo-us.store](https://cleo-us.store/)
+- **Platform:** Shopify
+- **Overview:** Engineered and configured a Shopify e-commerce storefront tailored for online shopping and brand presentation.
+- **Key Contributions:**
+  - Set up and customized the storefront layout, navigation, and product merchandising for a smooth shopping experience.
+  - Configured store settings, responsive design behavior, and storefront components for production launch.
+
+---
+
+### 2. Weagles Marketing — Marketing Agency Website & SEO
+- **Live Website:** [weaglesmarketing.com](https://www.weaglesmarketing.com/)
+- **Platform:** WordPress
+- **Overview:** Built the marketing agency website from scratch and led technical/on-page SEO improvements to strengthen search visibility.
+- **Key Contributions:**
+  - Developed the site structure and pages from the ground up with responsive layouts aligned to the agency's brand.
+  - Implemented SEO improvements across site structure, metadata, and content optimization for the marketing company.
+
+---
+
+### 3. Interwoven — E-Commerce Storefront (Promotions, Reviews & Payments)
+- **Live Store:** [interwovenap.com](https://interwovenap.com/)
+- **Platform:** E-Commerce Storefront
+- **Overview:** End-to-end storefront engineering focused on promotional campaigns, customer social proof, payment options, and theme selection.
+- **Key Contributions:**
+  - Selected and configured the store theme to match the brand aesthetic and product catalog.
+  - Engineered promotional discount setups and campaigns to drive conversions.
+  - Integrated and updated customer reviews functionality on the storefront.
+  - Configured payment options to support smooth customer checkout.
 
 📫 **Open to:** Full-stack, backend, frontend, and mobile engineering roles (remote, hybrid, or relocation).
 
